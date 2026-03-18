@@ -3,6 +3,9 @@ title: "Herman Tevilili"
 subtitle: "Principal Digital & Innovation Officer"
 format:
 
+  html:
+    embed-resources: true
+    output-file: index.html
   pdf:
     pdf-engine: xelatex
     documentclass: article
@@ -64,7 +67,7 @@ Developed foundational skills in programming (Python, SQL) and database manageme
 - **Created NSDP Dashboard** in R Shiny with interactive visualizations for household shock analysis. [GitHub Repository](https://github.com/htevilili-1991/NSDP-Dashbaord) | [Live](https://herman-tevilili.shinyapps.io/NSDP-Dashboard/)  
 - **Developed Vanuatu Courts Dashboard**: React (Shadcn UI, Tailwind CSS, Highcharts, TanStack Table) PWA for Vanuatu Judiciary annual reports—court/year filters, KPI cards, methodology section. [GitHub Repository](https://github.com/VBoS-Social-Section/vanuatu_courts_dashboard) | [Live Website](https://vbos-social-section.github.io/vanuatu_courts_dashboard/)  
 - **Developed Vanuatu Education Dashboard**: React (Shadcn UI, Tailwind CSS, Highcharts) PWA for MoET annual report statistics—enrolment, schools & teachers by level, KPI cards, methodology. [GitHub Repository](https://github.com/VBoS-Social-Section/education-dashboard) | [Live Website](https://vbos-social-section.github.io/education-dashboard/)  
-- **Technical committee member; contributed to VBoS Disaster Risk MIS (DRMIS)**: Co-drafted DRMIS developer Terms of Reference. Geospatial MIS for climate and disaster data. Backend: Django, Frontend: ReactJS, DB:PostgreSQL. Implemented Highcharts migration for charts; multi-select CSV import with auto-match and upload progress; admin filters (year, cluster, dataset) and bulk delete; API response caching and database indexes; VM deployment guide and Docker Compose; PWA, PDF export, shareable URLs; mobile FAB and responsive layout. [Changelog](https://github.com/VBoS-Social-Section/disaster-project-mis/blob/main/CHANGELOG.md)
+- **Technical committee member; contributed to VBoS Disaster Risk MIS (DRMIS)**: Co-drafted DRMIS developer Terms of Reference. Geospatial MIS for climate and disaster data. Backend: Django, Frontend: ReactJS, DB:PostgreSQL. Implemented Highcharts migration for charts; multi-select CSV import with auto-match and upload progress; admin filters (year, cluster, dataset) and bulk delete; API response caching and database indexes; VM deployment guide and Docker Compose; PWA, PDF export, shareable URLs; mobile FAB and responsive layout. [Changelog of the modifications I have made](https://github.com/VBoS-Social-Section/disaster-project-mis/blob/main/CHANGELOG.md)
 - Designed interactive dashboards with R Shiny, Tableau, Power BI, highcharter, and Leaflet for policy-relevant, filterable visualizations supporting government decision-making.  
 - Led integration of Census and CRVS data for Ministry of Finance Cash Transfer pilot using reproducible workflows (RAP, Git) and probabilistic matching.  
 - Produced tabulations and reports for government decision-making, including remuneration benchmarking and incentives.  
