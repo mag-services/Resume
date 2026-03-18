@@ -1,0 +1,120 @@
+---
+title: "Herman Tevilili"
+subtitle: "Principal Digital & Innovation Officer"
+format:
+
+  pdf:
+    pdf-engine: xelatex
+    documentclass: article
+    toc: true
+    include-in-header:
+      text: |
+        \usepackage{xcolor}
+        \definecolor{accent}{HTML}{2c3e50}
+        \pagenumbering{gobble}
+    variables:
+      longtable: false
+    geometry: 
+      - left=1.5cm
+      - right=1.5cm
+      - top=1.5cm
+      - bottom=1.5cm
+---
+
+{{< fa solid location-dot >}} Port-Vila, Vanuatu  
+{{< fa solid phone >}} (678) 7693749  
+{{< fa solid envelope >}} [htevilili@vanuatu.gov.vu](mailto:htevilili@vanuatu.gov.vu)  
+{{< fa brands github >}} [github.com/htevilili-1991](https://github.com/htevilili-1991)
+{{< fa brands github >}} [github.com/mag-services](https://github.com/mag-services)
+Date of Birth: 21 October 1991  
+Citizenship/Residence: Vanuatu
+
+## Professional Summary
+
+Digital transformation and innovation specialist with 5+ years of experience driving digitization, building online systems, and modernizing data workflows for Vanuatu government and public sector. Proven track record delivering digital solutions for institutional capacity assessment, performance management, and policy-relevant decision support. Skilled in full-stack development (React.js, Laravel, Django), Database management, interactive dashboards (R Shiny, Tableau, Power BI or custom built dashboards), and reproducible analytical workflows. Direct experience supporting Public Service Commission initiatives and capacity building across government ministries. Committed to leveraging technology for efficient, transparent public service delivery in Pacific Island contexts.
+
+## Technical Skills
+
+- **Digital & Web Systems**: React.js (SPA), Laravel, Python (Django), HTML/CSS/JS, CodeIgniter, Drupal/Joomla
+- **Languages & Analysis**: R, Python, SQL, Stata, SPSS, JavaScript, PHP
+- **Data Viz & Dashboards**: R Shiny, Tableau, Power BI, highcharter, Leaflet
+- **Scientific/Reproducible Tools**: Quarto, Git/RAP workflows, LaTeX, Kobotools/MS Forms
+- **Databases**: PostgreSQL, MySQL, Oracle, SQLite
+- **Other**: Probabilistic matching, GIS basics, BusinessObjects, Adobe InDesign/Photoshop/Illustrator
+
+## Education
+
+**Bachelor’s Degree in Economic and Social Administration**  
+*Université Toulouse 1 Capitole, France* — 2019–2021 (Obtained)  
+Multidisciplinary program combining economics, computer science, and quantitative methods. Enhanced skills in statistical analysis, programming, and data-driven decision-making for government processes and efficiency in Pacific Island contexts.
+
+**Bachelor of Mathematics and Computer Science**  
+*New Caledonia University, New Caledonia* — 2013–2015 (Not Obtained)  
+Developed foundational skills in programming (Python, SQL) and database management, enabling expertise in web development frameworks (Laravel, React.js) and data analytics tools (R, Shiny, Tableau, Power BI).
+
+**Certificate in Machine Learning and GIS for Land Cover Estimation**  
+*United Nations ESCAP* — 2024
+
+## Professional Experience
+
+**Statistician - Gender, Justice and Culture**  
+*Vanuatu Bureau of Statistics* — February 2022 – Present  
+- **Spearheaded digitization of Public Service Commission Institutional Capacity Assessment and Customer Satisfaction survey** using MS Forms, Kobotools, R, SQL, Quarto, and LaTeX for reproducible reporting—direct support to OPSC/IPDU objectives.  
+- **Developed Labour Mobility Schemes Registry (LMR)**: Laravel (backend) + React.js (frontend SPA) application with PostgreSQL for managing and visualizing labour mobility data. [GitHub Repository](https://github.com/htevilili-1991/Labour-Mobility-Registry)
+- **Created NSDP Dashboard** in R Shiny with interactive visualizations for household shock analysis. [GitHub Repository](https://github.com/htevilili-1991/NSDP-Dashbaord) | [Live](https://herman-tevilili.shinyapps.io/NSDP-Dashboard/)  
+- **Developed Vanuatu Courts Dashboard**: React (Shadcn UI, Tailwind CSS, Highcharts, TanStack Table) PWA for Vanuatu Judiciary annual reports—court/year filters, KPI cards, methodology section. [GitHub Repository](https://github.com/VBoS-Social-Section/vanuatu_courts_dashboard) | [Live Website](https://vbos-social-section.github.io/vanuatu_courts_dashboard/)  
+- **Developed Vanuatu Education Dashboard**: React (Shadcn UI, Tailwind CSS, Highcharts) PWA for MoET annual report statistics—enrolment, schools & teachers by level, KPI cards, methodology. [GitHub Repository](https://github.com/VBoS-Social-Section/education-dashboard) | [Live Website](https://vbos-social-section.github.io/education-dashboard/)  
+- **Technical committee member; contributed to VBoS Disaster Risk MIS (DRMIS)**: Co-drafted DRMIS developer Terms of Reference. Geospatial MIS for climate and disaster data. Backend: Django, Frontend: ReactJS, DB:PostgreSQL. Implemented Highcharts migration for charts; multi-select CSV import with auto-match and upload progress; admin filters (year, cluster, dataset) and bulk delete; API response caching and database indexes; VM deployment guide and Docker Compose; PWA, PDF export, shareable URLs; mobile FAB and responsive layout. [Changelog](https://github.com/VBoS-Social-Section/disaster-project-mis/blob/main/CHANGELOG.md)
+- Designed interactive dashboards with R Shiny, Tableau, Power BI, highcharter, and Leaflet for policy-relevant, filterable visualizations supporting government decision-making.  
+- Led integration of Census and CRVS data for Ministry of Finance Cash Transfer pilot using reproducible workflows (RAP, Git) and probabilistic matching.  
+- Produced tabulations and reports for government decision-making, including remuneration benchmarking and incentives.  
+- Collaborated on Vanuatu Constituency Profiles in R, ensuring data quality and linkage for streamlined reporting.  
+- Developed VBoS website (unformautnatly due to lack of staff with knoeldge to maintain a Drupal website, VBoS Drupal I built was taken down and IT staffs built a Joomla website) and Culture Information System (CodeIgniter + MySQL) for Vanuatu Cultural Center. 
+- Mentored staff in R and statistical tools for capacity building.
+
+## Personal Initiative
+**Wan Wokabaot** — [GitHub Repository](https://github.com/htevilili-1991/wanWokabaot_)
+- To ditigized a small VBoS staff coperative shops activities and management.
+- Self-initiated POS + inventory management web application built with Laravel and Inertia.js (React + TypeScript).  
+- Implemented Laravel Octane + FrankenPHP for ~10× performance improvement (~2900 vs ~290 req/s).  
+- Features: POS cart with pending carts, inventory with low-stock notifications, members, transactions, dividends; Falcon-inspired light/dark theme; Highcharts dashboard charts.  
+- Tech stack: Laravel, React, TypeScript, Inertia.js, Tailwind CSS v4, shadcn/ui, Highcharts.
+
+**Statistician Intern**  
+*Vanuatu Bureau of Statistics* — June 2021 – August 2021  
+- Researched inferential statistics applications, producing reproducible reports with R, SQL, and Adobe InDesign aligned to SPC standards.  
+- Demonstrated data integration techniques for enhanced statistical workflows.
+
+**Value-Added Services & Billing Technician**  
+*Telecom Vanuatu Ltd* — June 2021 – August 2021  
+- Maintained ERP data warehouse (Oracle) and designed scheduled reports using BusinessObjects for finance, marketing, and technical departments.  
+- Ensured billing accuracy with SQL queries and ran monthly reconciliation reports.  
+- Troubleshot systems and implemented new offers/plans.
+
+**IT Technician, Web Developer & Tutor**  
+*Computer Network Services* — 2013–2015  
+- Designed dynamic websites with databases (HTML, CSS, JavaScript, PHP).  
+- Tutored in IT and data management.
+
+
+## Language Skills
+
+- **English**: Fluent (written and oral)
+- **French**: Proficient (written and oral)
+- **Bislama**: Moderate (written), Fluent (oral)
+
+## Interpersonal Skills and Cultural Awareness
+
+Demonstrated ability to work effectively with diverse teams across national and cultural backgrounds, fostering collaboration in multicultural settings.
+
+## Relevance to Principal Digital & Innovation Officer (IPDU)
+
+- **Digital systems for public service**: Delivered digitization of PSC Institutional Capacity Assessment and Customer Satisfaction survey; built Labour Mobility Registry, NSDP Dashboard, Vanuatu Courts Dashboard, Vanuatu Education Dashboard; contributed to VBoS Disaster Risk MIS for climate and disaster data.  
+- **Innovation & learning**: Applied reproducible analytical workflows (RAP, Git), modern web frameworks (React.js, Laravel), and interactive dashboards to improve data accessibility and decision support.  
+- **Policy-relevant outputs**: Produced tabulations, remuneration benchmarking, and visualizations for government ministries; integrated Census and CRVS data for Cash Transfer pilot.  
+- **Capacity building**: Mentored staff in R and statistical tools; demonstrated ability to transfer skills and knowledge to counterparts.  
+- **Vanuatu government experience**: 5+ years at Vanuatu Bureau of Statistics collaborating with PSC, Ministry of Finance, and other ministries; culturally aware and Port Vila–based.  
+
+**Note**: This CV was built using R Quarto and opensourced for anyone to use or contribute to.
+- CV Online version: [https://htevilili-1991.github.io/cv-html/](https://htevilili-1991.github.io/cv-html/)
+- [Github Repo](https://github.com/htevilili-1991/cv). 
