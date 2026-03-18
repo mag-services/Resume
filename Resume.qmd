@@ -34,7 +34,7 @@ Citizenship/Residence: Vanuatu
 
 ## Professional Summary
 
-Digital transformation and innovation specialist with 5+ years of experience driving digitization, building online systems, and modernizing data workflows for Vanuatu government and public sector. Proven track record delivering digital solutions for institutional capacity assessment, performance management, and policy-relevant decision support. Skilled in full-stack development (React.js, Laravel, Django), Database management, interactive dashboards (R Shiny, Tableau, Power BI or custom built dashboards), and reproducible analytical workflows. Direct experience supporting Public Service Commission initiatives and capacity building across government ministries. Committed to leveraging technology for efficient, transparent public service delivery in Pacific Island contexts.
+Digital transformation and innovation specialist with 4+ years of experience driving digitization, building online systems, and modernizing data workflows for Vanuatu government and public sector. Proven track record delivering digital solutions for institutional capacity assessment, performance management, and policy-relevant decision support. Skilled in full-stack development (React.js, Laravel, Django), Database management, interactive dashboards (R Shiny, Tableau, Power BI or custom built dashboards), and reproducible analytical workflows. Direct experience supporting Public Service Commission initiatives and capacity building across government ministries. Committed to leveraging technology for efficient, transparent public service delivery in Pacific Island contexts.
 
 ## Technical Skills
 
